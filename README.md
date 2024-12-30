@@ -233,8 +233,9 @@ Input contexts checks if specific details are already available
 ### The Final Result
 - I successfully rebuilt my bot using CloudFormation in just 6 minutes.  
 - I resolved a permissions error by adding a policy for Lex to access Lambda.
-> **⚠️ IMPORTANT**  
+> [!IMPORTANT]  
 > Ignore the error under **Service**. The permission was successfully created.
+
 ![Screenshot 2024-12-30 035701](https://github.com/user-attachments/assets/6eb05eb6-8c4f-45de-b4d2-ce4a7f991a05)
 
 
